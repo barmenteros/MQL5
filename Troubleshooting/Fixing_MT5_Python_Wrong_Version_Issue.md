@@ -1,4 +1,4 @@
-# Fixing_MT5_Python_Wrong_Version_Issue
+# Fixing MT5 Python Wrong Version Issue
 
 ## Problem Description
 
