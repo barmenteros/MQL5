@@ -1,0 +1,5 @@
+# Ignore compiled binary files
+*.ex5
+
+# Ignore log files
+*.log
